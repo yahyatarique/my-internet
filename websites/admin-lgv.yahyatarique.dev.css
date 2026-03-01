@@ -13,6 +13,7 @@ nav
   --palette-secondary-contrastText: #fffe !important;
   --palette-background-paper: transparent !important;
   --palette-background-default: transparent !important;
+  --palette-background-neutral: transparent !important;
   background-color: transparent !important;
 }
 
@@ -22,6 +23,7 @@ nav
 
 header, .css-1haeaue {
   --palette-common-white: transparent !important;
+  backdrop-filter: blur(16px) !important;
 }
 
 :root {
@@ -35,6 +37,8 @@ header, .css-1haeaue {
     --darkreader-background-ffffff: transparent !important;
     background-color: transparent !important;
     --palette-background-paper: transparent !important;
+    --palette-background-default: transparent !important;
+    --palette-background-neutral: transparent !important;
   }
 }
 
