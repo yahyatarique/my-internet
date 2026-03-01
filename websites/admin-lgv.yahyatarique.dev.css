@@ -1,4 +1,4 @@
-/* transparency */
+/* adminlgv-transparency */
 html,
 body,
 nav,
@@ -14,12 +14,15 @@ section[data-role] {
     box-shadow 0.5s ease-in-out !important;
   --palette-background-paper: transparent !important;
   --palette-background-default: transparent !important;
+  --palette-common-white: transparent !important;
+  --palette-common-black: #fffe !important;
 }
 
 :root {
   --darkreader-background-ffffff: transparent !important;
   --palette-background-paper: transparent !important;
   --palette-background-default: transparent !important;
+  --palette-common-white: transparent !important;
 }
 
 @layer {
@@ -32,6 +35,12 @@ section[data-role] {
   }
 }
 
+/* adminlgv-darkreader */
+:root {
+  --darkreader-background-ffffff: transparent !important;
+}
+
+/* adminlgv-no footer */
 footer,
 #Footer,
 .Footer,
