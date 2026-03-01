@@ -2,8 +2,6 @@
 html,
 body,
 nav,
-header,
-.css-1haeaue
 {
   --palette-background-paper: transparent !important;
   --palette-background-default: transparent !important;
@@ -20,6 +18,10 @@ header,
 
 .MuiTypography-root {
   color: #fffe !important;
+}
+
+header, .css-1haeaue {
+  --palette-common-white: transparent !important;
 }
 
 :root {
