@@ -1,4 +1,4 @@
-/* adminlgv-transparency */
+/* adminlgvdev-transparency */
 html,
 body,
 nav
@@ -61,12 +61,12 @@ header, .css-1haeaue {
     color: var(--palette-text-primary, #fffa) !important;
 }
 
-/* adminlgv-darkreader */
+/* adminlgvdev-darkreader */
 :root {
   --darkreader-background-ffffff: transparent !important;
 }
 
-/* adminlgv-no footer */
+/* adminlgvdev-no footer */
 footer,
 #Footer,
 .Footer,
