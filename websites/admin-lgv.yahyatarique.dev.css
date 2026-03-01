@@ -1,7 +1,9 @@
 /* adminlgv-transparency */
 html,
 body,
-nav
+nav,
+header,
+.css-1haeaue
 {
   --palette-background-paper: transparent !important;
   --palette-background-default: transparent !important;
