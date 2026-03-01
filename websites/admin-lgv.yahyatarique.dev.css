@@ -9,6 +9,11 @@ nav
   --palette-common-black: #fffe !important;
   --palette-text-primary: #fffe !important;
   --palette-text-secondary: #fffd !important;
+  --palette-secondary-main: #fffd !important;
+  --palette-secondary-dark: #fffc !important;
+  --palette-secondary-light: #fffd !important;
+  --palette-secondary-contrastText: #fffe !important;
+  --palette-secondary-contrastText: #fffe !important;
 }
 
 .MuiTypography-root {
