@@ -21,7 +21,7 @@ nav
   color: #fffe !important;
 }
 
-.MuiCard-root {
+.MuiCard-root, .MuiPaper-root {
   backdrop-filter: blur(16px) !important;
   background-color: transparent !important;
 }
