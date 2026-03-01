@@ -1,7 +1,7 @@
 /* adminlgv-transparency */
 html,
 body,
-nav,
+nav
 {
   --palette-background-paper: transparent !important;
   --palette-background-default: transparent !important;
