@@ -7,6 +7,6 @@
     "update": "node update-styles-json.mjs"
   },
   "dependencies": {
-    "postcss": "^8.4.21"
+    "postcss": "^8.5.6"
   }
 }
