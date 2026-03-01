@@ -21,6 +21,11 @@ nav
   color: #fffe !important;
 }
 
+.MuiCard-root {
+  backdrop-filter: blur(16px) !important;
+  background-color: transparent !important;
+}
+
 header, .css-1haeaue {
   --palette-common-white: transparent !important;
   backdrop-filter: blur(16px) !important;
