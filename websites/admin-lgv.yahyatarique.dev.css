@@ -5,12 +5,12 @@ nav
 {
   --palette-background-paper: transparent !important;
   --palette-background-default: transparent !important;
-  --palette-common-black: #fffe !important;
-  --palette-text-primary: #fffe !important;
+  --palette-common-black: #fffc !important;
+  --palette-text-primary: #fffc !important;
   --palette-secondary-main: #31507c !important;
   --palette-secondary-dark: #1e3a5f !important;
   --palette-secondary-light: #4a6f9c !important;
-  --palette-secondary-contrastText: #fffe !important;
+  --palette-secondary-contrastText: #fffa !important;
   --palette-background-paper: transparent !important;
   --palette-background-default: transparent !important;
   --palette-background-neutral: transparent !important;
@@ -24,7 +24,7 @@ nav
 }
 
 .MuiTypography-root {
-  color: #fff8 !important;
+  color: var(--palette-text-primary, #fffa) !important;
 }
 
 .MuiCard-root, .MuiPaper-root {
