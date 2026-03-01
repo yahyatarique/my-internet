@@ -7,6 +7,12 @@ nav
   --palette-background-default: transparent !important;
   --palette-common-white: transparent !important;
   --palette-common-black: #fffe !important;
+  --palette-text-primary: #fffe !important;
+  --palette-text-secondary: #fffd !important;
+}
+
+.MuiTypography-root {
+  color: #fffe !important;
 }
 
 :root {
