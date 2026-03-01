@@ -8,11 +8,9 @@ nav
   --palette-common-white: transparent !important;
   --palette-common-black: #fffe !important;
   --palette-text-primary: #fffe !important;
-  --palette-text-secondary: #fffd !important;
-  --palette-secondary-main: #fffd !important;
-  --palette-secondary-dark: #fffc !important;
-  --palette-secondary-light: #fffd !important;
-  --palette-secondary-contrastText: #fffe !important;
+  --palette-secondary-main: #31507c !important;
+  --palette-secondary-dark: #1e3a5f !important;
+  --palette-secondary-light: #4a6f9c !important;
   --palette-secondary-contrastText: #fffe !important;
 }
 
