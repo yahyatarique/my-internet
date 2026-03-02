@@ -995,6 +995,10 @@
       "azdo-darkreader": ":root {\n  --darkreader-background-ffffff: transparent !important;\n}",
       "azdo-No borders": "div[role=\"separator\"] {\n  opacity: 0 !important;\n}\ndiv[role=\"navigation\"], div[role=\"menubar\"], .repos-compare-toolbar, .left-toolbar.toolbar {\n  border-color: transparent !important;\n  box-shadow: none !important;\n}\n.toolbar {\n  border-top-color: transparent !important;\n}"
     },
+    "dev.voxta.io.css": {
+      "voxta-portal-transparency": "html, body, nav, .css-1rxw4et, .css-1vymm1o, .css-dbkolw, .css-1utzf65 {\n    background-color: transparent !important;\n    background: transparent !important;\n}\n@layer base {\n    :root {\n        --chakra-colors-background-base: transparent !important;\n    }\n}",
+      "voxta-portal-no-footer": ".css-ll8kup {\n    display: none !important;\n}"
+    },
     "devdocs.io.css": {
       "transparency": "html, body, nav:not(._menu), header, .app-root, #pass-sidebar, #main, #content, section, #__next, ._list-item, ._list {\n  background-color: transparent !important;\n  background: none !important;\n  border: none !important;\n  box-shadow: none !important;\n  transition:\n    background-color 0.5s ease-in-out,\n    background 0.5s ease-in-out,\n    border 0.5s ease-in-out,\n    box-shadow 0.5s ease-in-out !important;\n}"
     },

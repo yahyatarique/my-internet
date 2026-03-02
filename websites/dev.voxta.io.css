@@ -1,0 +1,19 @@
+/* voxta-portal-transparency */
+html,
+body,
+nav,
+.css-1rxw4et, .css-1vymm1o, .css-dbkolw, .css-1utzf65 {
+    background-color: transparent !important;
+    background: transparent !important;
+}
+
+@layer base {
+    :root {
+        --chakra-colors-background-base: transparent !important;
+    }
+}
+
+/* voxta-portal-no-footer */
+.css-ll8kup {
+    display: none !important;
+}
