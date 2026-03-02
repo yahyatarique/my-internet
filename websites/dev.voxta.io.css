@@ -2,7 +2,7 @@
 html,
 body,
 nav,
-.css-1rxw4et, .css-1vymm1o, .css-dbkolw, .css-1utzf65, .css-caw86, .css-1okh4uo, .css-93bvzv {
+.css-1rxw4et, .css-1vymm1o, .css-dbkolw, .css-1utzf65, .css-caw86, .css-1okh4uo, .css-93bvzv, .css-1utzf65, .css-kfz39v, .css-xrbo6j{
     background-color: transparent !important;
     background: transparent !important;
     border-color: transparent !important;
@@ -11,7 +11,7 @@ nav,
 
 
 /* voxta-portal-blur */
-.css-93bvzv {
+.css-93bvzv, .css-xrbo6j {
     backdrop-filter: blur(10px) !important;
 }
 
@@ -23,11 +23,11 @@ nav,
 
 
 /* voxta-portal-darkreader */
-.css-10x5j8z, .css-9p25au, .css-9f4txl  {
+.css-10x5j8z, .css-9p25au, .css-9f4txl, .css-1gw2vvz, .css-3sublr {
     color: var(--chakra-colors-text-primary) !important;
 }
 
-.css-cm9ntp {
+.css-cm9ntp, .css-15epc0u {
     color: var(--chakra-colors-text-secondary) !important;
 }
 
