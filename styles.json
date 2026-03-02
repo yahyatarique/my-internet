@@ -998,7 +998,7 @@
     "dev.voxta.io.css": {
       "voxta-portal-transparency": "html, body, nav, .css-1rxw4et, .css-1vymm1o, .css-dbkolw, .css-1utzf65, .css-caw86, .css-1okh4uo, .css-93bvzv, .css-1utzf65, .css-kfz39v, .css-xrbo6j{\n    background-color: transparent !important;\n    background: transparent !important;\n    border-color: transparent !important;\n    box-shadow: none !important;\n}",
       "voxta-portal-blur": ".css-93bvzv, .css-xrbo6j {\n    backdrop-filter: blur(10px) !important;\n}\n@layer base {\n    :root {\n        --chakra-colors-background-base: transparent !important;\n    }\n}",
-      "voxta-portal-darkreader": ".css-10x5j8z, .css-9p25au, .css-9f4txl, .css-1gw2vvz, .css-3sublr {\n    color: var(--chakra-colors-text-primary) !important;\n}\n.css-cm9ntp, .css-15epc0u {\n    color: var(--chakra-colors-text-secondary) !important;\n}",
+      "voxta-portal-darkreader": ".css-10x5j8z, .css-9p25au, .css-9f4txl, .css-1gw2vvz, .css-3sublr, .css-1bhavvk{\n    color: var(--chakra-colors-text-primary) !important;\n}\n.css-cm9ntp, .css-15epc0u, .css-evm92v {\n    color: var(--chakra-colors-text-secondary) !important;\n}",
       "voxta-portal-no-footer": ".css-ll8kup {\n    display: none !important;\n}"
     },
     "devdocs.io.css": {
