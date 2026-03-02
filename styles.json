@@ -996,7 +996,7 @@
       "azdo-No borders": "div[role=\"separator\"] {\n  opacity: 0 !important;\n}\ndiv[role=\"navigation\"], div[role=\"menubar\"], .repos-compare-toolbar, .left-toolbar.toolbar {\n  border-color: transparent !important;\n  box-shadow: none !important;\n}\n.toolbar {\n  border-top-color: transparent !important;\n}"
     },
     "dev.voxta.io.css": {
-      "voxtaportal-transparency": "html, body, nav, .css-1rxw4et, .css-1vymm1o, .css-dbkolw, .css-1utzf65, .css-caw86, .css-1okh4uo, .css-93bvzv, .css-1utzf65, .css-kfz39v, .css-xrbo6j{\n    background-color: transparent !important;\n    background: transparent !important;\n    border-color: transparent !important;\n    box-shadow: none !important;\n}",
+      "voxtaportal-transparency": "html, body, nav, .css-1rxw4et, .css-1vymm1o, .css-dbkolw, .css-1utzf65, .css-caw86, .css-1okh4uo, .css-93bvzv, .css-1utzf65, .css-kfz39v, .css-xrbo6j, .css-4p5rqm{\n    background-color: transparent !important;\n    background: transparent !important;\n    border-color: transparent !important;\n    box-shadow: none !important;\n}",
       "voxtaportal-blur": ".css-93bvzv, .css-xrbo6j {\n    backdrop-filter: blur(10px) !important;\n}\n@layer base {\n    :root {\n        --chakra-colors-background-base: transparent !important;\n    }\n}",
       "voxtaportal-darkreader": ".css-10x5j8z, .css-9p25au, .css-9f4txl, .css-1gw2vvz, .css-3sublr, .css-1bhavvk{\n    color: var(--chakra-colors-text-primary) !important;\n}\n.css-cm9ntp, .css-15epc0u, .css-evm92v {\n    color: var(--chakra-colors-text-secondary) !important;\n}",
       "voxtaportal-no-footer": ".css-ll8kup {\n    display: none !important;\n}"
