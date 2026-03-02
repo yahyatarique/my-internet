@@ -2,7 +2,7 @@
 html,
 body,
 nav,
-.css-1rxw4et, .css-1vymm1o, .css-dbkolw, .css-1utzf65 {
+.css-1rxw4et, .css-1vymm1o, .css-dbkolw, .css-1utzf65, .css-caw86, .css-1okh4uo {
     background-color: transparent !important;
     background: transparent !important;
 }
@@ -11,6 +11,16 @@ nav,
     :root {
         --chakra-colors-background-base: transparent !important;
     }
+}
+
+
+/* voxta-portal-darkreader */
+.css-10x5j8z, .css-9p25au, .css-9f4txl  {
+    color: var(--chakra-colors-text-primary) !important;
+}
+
+.css-cm9ntp {
+    color: var(--chakra-colors-text-secondary) !important;
 }
 
 /* voxta-portal-no-footer */
