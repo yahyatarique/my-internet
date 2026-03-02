@@ -2,9 +2,17 @@
 html,
 body,
 nav,
-.css-1rxw4et, .css-1vymm1o, .css-dbkolw, .css-1utzf65, .css-caw86, .css-1okh4uo {
+.css-1rxw4et, .css-1vymm1o, .css-dbkolw, .css-1utzf65, .css-caw86, .css-1okh4uo, .css-93bvzv {
     background-color: transparent !important;
     background: transparent !important;
+    border-color: transparent !important;
+    box-shadow: none !important;
+}
+
+
+/* voxta-portal-blur */
+.css-93bvzv {
+    backdrop-filter: blur(10px) !important;
 }
 
 @layer base {
