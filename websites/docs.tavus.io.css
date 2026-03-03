@@ -1,0 +1,13 @@
+/* tavus-transparency */
+
+html, body, .bg-background-light, .bg-background-dark, .dark {
+    background-color: transparent !important;
+    background: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+/* tavus-no footer */
+footer {
+    display: none !important;
+}
