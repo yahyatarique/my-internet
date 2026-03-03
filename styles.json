@@ -996,9 +996,9 @@
       "azdo-No borders": "div[role=\"separator\"] {\n  opacity: 0 !important;\n}\ndiv[role=\"navigation\"], div[role=\"menubar\"], .repos-compare-toolbar, .left-toolbar.toolbar {\n  border-color: transparent !important;\n  box-shadow: none !important;\n}\n.toolbar {\n  border-top-color: transparent !important;\n}"
     },
     "dev.voxta.io.css": {
-      "voxtaportal-transparency": "html, body, nav, .css-1rxw4et, .css-1vymm1o, .css-dbkolw, .css-1utzf65, .css-caw86, .css-1okh4uo, .css-93bvzv, .css-1utzf65, .css-kfz39v, .css-xrbo6j, .css-4p5rqm{\n    background-color: transparent !important;\n    background: transparent !important;\n    border-color: transparent !important;\n    box-shadow: none !important;\n}",
+      "voxtaportal-transparency": "html, body, nav, .css-1rxw4et, .css-1vymm1o, .css-dbkolw, .css-1utzf65, .css-caw86, .css-1okh4uo, .css-93bvzv, .css-1utzf65, .css-kfz39v, .css-xrbo6j, .css-4p5rqm, .css-80bhh7{\n    background-color: transparent !important;\n    background: transparent !important;\n    border-color: transparent !important;\n    box-shadow: none !important;\n}",
       "voxtaportal-blur": ".css-93bvzv, .css-xrbo6j {\n    backdrop-filter: blur(10px) !important;\n}\n@layer base {\n    :root {\n        --chakra-colors-background-base: transparent !important;\n    }\n}",
-      "voxtaportal-darkreader": ".css-10x5j8z, .css-9p25au, .css-9f4txl, .css-1gw2vvz, .css-3sublr, .css-1bhavvk{\n    color: var(--chakra-colors-text-primary) !important;\n}\n.css-cm9ntp, .css-15epc0u, .css-evm92v {\n    color: var(--chakra-colors-text-secondary) !important;\n}",
+      "voxtaportal-darkreader": ".css-10x5j8z, .css-9p25au, .css-9f4txl, .css-1gw2vvz, .css-3sublr, .css-1bhavvk, .css-1ju15ve{\n    color: var(--chakra-colors-text-primary) !important;\n}\n.css-cm9ntp, .css-15epc0u, .css-evm92v, .css-1jp48ni {\n    color: var(--chakra-colors-text-secondary) !important;\n}",
       "voxtaportal-no-footer": ".css-ll8kup {\n    display: none !important;\n}"
     },
     "devdocs.io.css": {
@@ -1090,6 +1090,9 @@
       "docs-autohide sidebar": ".left-sidebar-container {\n  opacity: 0 !important;\n  transition: all 0.3s cubic-bezier(0.445, 0.05, 0.55, 0.95) !important;\n}\n.left-sidebar-container:hover {\n  opacity: 1 !important;\n}",
       "docs-blured instant bubble": "#docs-instant-bubble:hover {\n  background-color: rgb(255 255 255 / 70%) !important;\n}\n#docs-instant-bubble {\n  background-color: rgb(255 255 255 / 20%) !important;\n  backdrop-filter: blur(10px) !important;\n  transition: all 0.5s !important;\n}",
       "docs-filmstrip glass $ Adds glass effect & animates the sidebar in Google Slides": ".filmstrip:not(.filmstrip-collapsed):not(.grid-view) {\n  background-color: #ffffff70 !important;\n  border: solid !important;\n  border-width: 2px !important;\n  border-color: #ffffff90 !important;\n}\n.punch-filmstrip-scroll, .filmstrip {\n  border-radius: 15px !important;\n}\n#filmstrip-controls {\n  border-radius: 10px !important;\n}\n.filmstrip, #filmstrip-sizer {\n  transition: 0.15s linear !important;\n}\n#two-panel-layout {\n  gap: 8px !important;\n}"
+    },
+    "docs.placetopay.dev.css": {
+      "placetopay-transparency": "body {\n    background-color: transparent !important;\n}"
     },
     "docs.python.org.css": {
       "python-transparency": "html, body, nav, header, [role=\"navigation\"], #sidebarbutton {\n  background-color: transparent !important;\n  background: none !important;\n  border: none !important;\n  box-shadow: none !important;\n  transition:\n    background-color 0.5s ease-in-out,\n    background 0.5s ease-in-out,\n    border 0.5s ease-in-out,\n    box-shadow 0.5s ease-in-out !important;\n}",
