@@ -1,6 +1,8 @@
 /* tavus-transparency */
 
 html, body, .bg-background-light, .bg-background-dark, .dark {
+    --background-dark: transparent !important;
+    --background-light: transparent !important;
     background-color: transparent !important;
     background: none !important;
     border: none !important;
