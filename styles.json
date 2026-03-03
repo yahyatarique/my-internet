@@ -1092,7 +1092,8 @@
       "docs-filmstrip glass $ Adds glass effect & animates the sidebar in Google Slides": ".filmstrip:not(.filmstrip-collapsed):not(.grid-view) {\n  background-color: #ffffff70 !important;\n  border: solid !important;\n  border-width: 2px !important;\n  border-color: #ffffff90 !important;\n}\n.punch-filmstrip-scroll, .filmstrip {\n  border-radius: 15px !important;\n}\n#filmstrip-controls {\n  border-radius: 10px !important;\n}\n.filmstrip, #filmstrip-sizer {\n  transition: 0.15s linear !important;\n}\n#two-panel-layout {\n  gap: 8px !important;\n}"
     },
     "docs.openclaw.ai.css": {
-      "openclaw-transparency": ":root {\n    --background-dark: transparent !important;\n}"
+      "openclaw-transparency": ":root {\n    --background-dark: transparent !important;\n    --background-light: transparent !important;\n}\nspan#background-color {\n    background-color: transparent !important;\n}",
+      "openclaw-no footer": "footer {\n    display: none !important;\n}"
     },
     "docs.placetopay.dev.css": {
       "placetopay-transparency": "body {\n    background-color: transparent !important;\n}"

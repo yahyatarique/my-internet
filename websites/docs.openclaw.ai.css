@@ -1,4 +1,14 @@
 /* openclaw-transparency */
 :root {
     --background-dark: transparent !important;
+    --background-light: transparent !important;
+}
+
+span#background-color {
+    background-color: transparent !important;
+}
+
+/* openclaw-no footer */
+footer {
+    display: none !important;
 }
